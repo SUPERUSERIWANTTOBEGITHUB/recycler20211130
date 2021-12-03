@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
             User("Ivan", 20),
             User("Elena", 19),
             User("Anna", 21),
-            User("Maxim", 100)
+            User("Maxim", 55000)
         )
 
         userRecyclerView = findViewById(R.id.user_recycler_view)

@@ -1,6 +1,6 @@
 package com.og.myapplication
 
 data class User(
-    val name: String,
-    val age: Int
+    val name_cuty: String,
+    val population_size: Int
 )
