@@ -31,12 +31,3 @@ class MainActivity : AppCompatActivity() {
 
 }
 
-
-// RecyclerView <- Adapter <- ViewHolder <- layout
-// 1. LayoutManager
-// 2. Adapter
-
-//RecyclerView DONE
-//Adapter DONE
-//ViewHolder DONE
-//layout DONE
