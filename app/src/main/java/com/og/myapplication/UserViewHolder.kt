@@ -11,11 +11,11 @@ class UserViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
     private val ageTextView: TextView = itemView.findViewById(R.id.age_text_view)
 
     fun bind(user: User) {
-        nameTextView.text = "Имя - ${user.name}"
-        ageTextView.text = "Возраст - ${user.age}"
+        nameTextView.text = "ГОРОД - ${user.name_cuty}"
+        ageTextView.text = "ЧИСЛО ЖИТЕЛЕЙ - ${user.population_size}"
 
         itemView.setOnClickListener {
-            Toast.makeText(itemView.context,user.name,Toast.LENGTH_LONG).show()
+            Toast.makeText(itemView.context,user.name_cuty,Toast.LENGTH_LONG).show()
         }
 
     }
