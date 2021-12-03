@@ -15,10 +15,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val userList: List<User> = listOf(
-            User("Ivan", 20),
-            User("Elena", 19),
-            User("Anna", 21),
-            User("Maxim", 55000)
+            User("МОСКВА", 12655050),
+            User("САНКТ-ПЕТЕРБУРГ", 5384342),
+            User("КАЗАНЬ", 1257341 ),
+            User("АЛЬМЕТЬЕВСК", 146309),
+            User("СВИЯЖСК", 243)
         )
 
         userRecyclerView = findViewById(R.id.user_recycler_view)

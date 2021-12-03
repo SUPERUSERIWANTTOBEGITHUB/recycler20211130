@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name" translatable="false">My Application</string>
+    <string name="app_name" translatable="false">CRC7_homework3</string>
     <string name="new_text">New text</string>
     <string name="random">Random</string>
     <string name="next_activity">Next activity</string>
-    <string name="hello">Hello</string>
+    <string name="hello">Good day</string>
 </resources>

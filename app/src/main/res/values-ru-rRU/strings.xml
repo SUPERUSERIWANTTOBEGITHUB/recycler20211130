@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="new_text">Новый текс</string>
+    <string name="new_text">Новый текст</string>
     <string name="random">Случайность</string>
     <string name="next_activity">Следующая активность</string>
-    <string name="hello">Привет</string>
+    <string name="hello">Добрый день</string>
 </resources>
